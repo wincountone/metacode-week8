@@ -1,0 +1,17 @@
+# 제출 산출물
+*.zip
+
+# 키·자격증명 (코드에는 빈 문자열로 두고 실제 값은 여기에)
+.env
+.env.*
+*.pem
+credentials*
+
+# OS / Python / 에디터
+.DS_Store
+._*
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.idea/
+.vscode/
